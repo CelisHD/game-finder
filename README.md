@@ -32,3 +32,25 @@ bash
 Copiar código
 npm run dev
 La aplicación se abrirá en http://localhost:5173/.
+
+
+🌐 Aplicación desplegada
+Puedes acceder a la versión en línea de la aplicación en Vercel: 
+
+👉 Game Finder - Vercel: https://game-finder-47ntat6ol-diego-celis-projects.vercel.app/
+
+
+📌 Características
+✅ Buscar videojuegos por título.
+✅ Filtrar juegos por género, plataforma, etiquetas y desarrollador.
+✅ Ordenar juegos por puntuación en Metacritic.
+✅ Visualizar detalles completos de cada videojuego.
+✅ Interfaz moderna y responsiva.
+
+📚 Bibliotecas adicionales utilizadas
+Biblioteca	Propósito
+Axios	Para hacer peticiones HTTP a la API de RAWG.
+React Router	Para manejar la navegación de la aplicación.
+Vite	Para optimizar el desarrollo y la compilación.
+
+
