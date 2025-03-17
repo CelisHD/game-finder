@@ -1,12 +1,34 @@
-# React + Vite
+🎮 Game Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Game Finder es una aplicación diseñada para ayudar a los usuarios a encontrar videojuegos según diferentes criterios, como género, plataformas, etiquetas y desarrolladores.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologías utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React.js** con [Vite](https://vitejs.dev/) para un desarrollo rápido.
+- **RAWG API** para obtener información detallada sobre videojuegos.
+- **React Router** para la navegación entre páginas.
+- **Axios** para la gestión de peticiones HTTP.
+- **CSS** personalizado para el diseño y estilos.
 
-## Expanding the ESLint configuration
+## 📂 Instalación y ejecución
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Para ejecutar el proyecto en otro PC, sigue estos pasos:
+
+1️⃣ Clonar el repositorio:
+```bash
+    git clone https://github.com/CelisHD/game-finder.git
+    cd game-finder
+
+
+2️⃣ Instalar dependencias:
+
+bash
+Copiar código
+npm install
+
+3️⃣ Ejecutar la aplicación en modo desarrollo:
+
+bash
+Copiar código
+npm run dev
+La aplicación se abrirá en http://localhost:5173/.
